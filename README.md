@@ -50,7 +50,7 @@ Jogo **Roguelike Dungeon Crawler** em Pygame, com geração procedural de masmorra
    ```bash
    git clone https://github.com/michelbr/dungeon-roguelike.git
    cd dungeon-roguelike
-````
+   ```
 
 2. **Crie um ambiente virtual (opcional, mas recomendado):**
 
