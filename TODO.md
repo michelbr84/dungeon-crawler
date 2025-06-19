@@ -1,3 +1,6 @@
+## TODO.md
+
+```markdown
 ## ✅ Fase 1: Estrutura Inicial do Projeto
 
 * Criar pastas: `/src`, `/assets`, `/levels`, `/saves` (se necessário)
@@ -30,7 +33,7 @@
 
 ## 👾 Fase 4: Inimigos
 
-* Criar `enemy.py`
+* Criar enemy.py
 * Classe Enemy com posição, comportamento (aleatório ou perseguidor)
 * Movimento dos inimigos após ação do jogador
 * Dano ao encostar no jogador (com efeito visual/som)
@@ -40,7 +43,7 @@
 
 ## 🎒 Fase 5: Itens
 
-* Criar `item.py`
+* Criar item.py
 * Tipos: cura, tesouro (moeda), outros itens
 * Spawn aleatório em tiles acessíveis
 * Jogador coleta ao passar pelo tile
@@ -129,6 +132,6 @@
 **Observações de desenvolvimento atuais:**
 
 * [ ] Corrigir problema de fonte unicode (substituir símbolos problemáticos por texto compatível).
-* [ ] Adicionar dica automática sobre a loja ao pegar a primeira moeda.
+* [x] Adicionar dica automática sobre a loja ao pegar a primeira moeda.
 * [ ] Melhorar mensagem de compra/venda na loja.
 * [ ] Garantir moedas acumulam corretamente entre andares/game over.

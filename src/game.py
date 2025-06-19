@@ -10,7 +10,11 @@ from dungeon import Dungeon
 from player import Player
 from enemy import Enemy
 from item import spawn_items, ITEM_HEALTH, ITEM_TREASURE
-from ui import tela_inicial, tela_game_over, exibir_hud, tela_pause, tela_loja
+from ui_menu import tela_inicial
+from ui_gameover import tela_game_over
+from ui_hud import exibir_hud
+from ui_pause import tela_pause
+from ui_shop import tela_loja
 from desafio import make_desafios, MEDALHAS
 from particle import Particle
 from lang import _

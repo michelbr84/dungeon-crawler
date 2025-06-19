@@ -58,7 +58,7 @@
 * [x] Tela de loja acessível por tecla (B)
 * [x] Compra de upgrades: +cura, +vida máx, invulnerável
 * [x] Exibir moedas do jogador (HUD e Loja)
-* [ ] Mensagem/dica ao pegar a primeira moeda: "Use B para abrir loja"
+* [x] Mensagem/dica ao pegar a primeira moeda: "Use B para abrir loja"
 * [x] Bloqueio de compra sem moedas suficientes
 
 ### Fim de Jogo
@@ -92,7 +92,7 @@
 * [x] Refatorar e modularizar código
 * [x] Testar funcionalidades (andar, loja, desafios, etc)
 * [ ] Corrigir bug de fonte unicode (símbolos)
-* [ ] Mensagem orientando sobre a loja ao pegar 1ª moeda
+* [x] Mensagem orientando sobre a loja ao pegar 1ª moeda
 * [ ] Garantir moedas acumulam corretamente entre andares e Game Over
 
 ---
@@ -106,13 +106,15 @@
 * [ ] NPCs, quests, diálogos
 * [ ] Gráficos aprimorados, animações e efeitos sonoros
 * [ ] Sistema de saves e meta-progresso
-* [ ] Rank online, desafios diários/semanais
+* [ ] Rank online e desafios diários/semanais
 
 ---
 
 ## 🔥 Tarefas Urgentes / Prioridade Atual
 
 * [ ] Corrigir problema de fonte unicode (exibir \$ ou texto seguro)
-* [ ] Adicionar dica automática da loja ao pegar a primeira moeda
+* [x] Adicionar dica automática da loja ao pegar a primeira moeda
 * [ ] Garantir moedas acumulam para próximos andares e não zeram ao passar de andar/Game Over
-* [ ] Mensagem clara após compra/venda na loja
+* [ ] Mensagem clara após compra/venda na Loja
+
+- Seed, escolha de fase em forma de seed

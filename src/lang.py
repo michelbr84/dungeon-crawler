@@ -34,6 +34,16 @@ TEXTS = {
         "medals": "Medalhas",
         "shop_first_coin": "Agora você pode abrir a loja apertando B!",
         "shop_menu_hint": "[B] Loja: Compre upgrades usando moedas durante o jogo.",
+        # Loja (SHOP)
+        "shop_title": "LOJA",
+        "shop_item_heal": "Cura +1",
+        "shop_item_maxhp": "Vida Máx +1",
+        "shop_item_invuln": "Invulnerável (10 turnos)",
+        "shop_controls": "Enter: comprar  |  Esc: sair  |  cima/baixo",
+        "shop_buy_ok_heal": "Cura realizada!",
+        "shop_buy_ok_maxhp": "Vida máxima aumentada!",
+        "shop_buy_ok_invuln": "Você está invulnerável por 10 turnos!",
+        "shop_buy_fail_coins": "Sem moedas suficientes!",
 
         # Desafios e Medalhas (KEYS!)
         "challenge_pacifista": "Zere o andar sem levar dano",
@@ -91,6 +101,16 @@ TEXTS = {
         "medals": "Medals",
         "shop_first_coin": "Now you can open the shop by pressing B!",
         "shop_menu_hint": "[B] Shop: Buy upgrades using coins during the game.",
+        # Shop (SHOP)
+        "shop_title": "SHOP",
+        "shop_item_heal": "Heal +1",
+        "shop_item_maxhp": "Max HP +1",
+        "shop_item_invuln": "Invulnerable (10 turns)",
+        "shop_controls": "Enter: buy  |  Esc: exit  |  up/down",
+        "shop_buy_ok_heal": "Healed!",
+        "shop_buy_ok_maxhp": "Max HP increased!",
+        "shop_buy_ok_invuln": "You are invulnerable for 10 turns!",
+        "shop_buy_fail_coins": "Not enough coins!",
 
         # Challenges and Medals
         "challenge_pacifista": "Clear the floor without taking damage",
@@ -147,6 +167,16 @@ TEXTS = {
         "medals": "Medallas",
         "shop_first_coin": "¡Ahora puedes abrir la tienda presionando B!",
         "shop_menu_hint": "[B] Tienda: Compra mejoras usando monedas durante el juego.",
+        # Tienda (SHOP)
+        "shop_title": "TIENDA",
+        "shop_item_heal": "Cura +1",
+        "shop_item_maxhp": "Vida Máx +1",
+        "shop_item_invuln": "Invulnerable (10 turnos)",
+        "shop_controls": "Enter: comprar  |  Esc: salir  |  arriba/abajo",
+        "shop_buy_ok_heal": "¡Curado!",
+        "shop_buy_ok_maxhp": "¡Vida máxima aumentada!",
+        "shop_buy_ok_invuln": "¡Eres invulnerable por 10 turnos!",
+        "shop_buy_fail_coins": "¡No tienes monedas suficientes!",
 
         # Desafíos y medallas
         "challenge_pacifista": "Pasa el piso sin recibir daño",
@@ -203,6 +233,16 @@ TEXTS = {
         "medals": "Médailles",
         "shop_first_coin": "Vous pouvez maintenant ouvrir la boutique avec B !",
         "shop_menu_hint": "[B] Boutique : Achetez des améliorations avec vos pièces pendant le jeu.",
+        # Boutique (SHOP)
+        "shop_title": "BOUTIQUE",
+        "shop_item_heal": "Soin +1",
+        "shop_item_maxhp": "Vie Max +1",
+        "shop_item_invuln": "Invulnérable (10 tours)",
+        "shop_controls": "Entrée : acheter  |  Échap : quitter  |  haut/bas",
+        "shop_buy_ok_heal": "Soin effectué !",
+        "shop_buy_ok_maxhp": "Vie maximale augmentée !",
+        "shop_buy_ok_invuln": "Vous êtes invulnérable pendant 10 tours !",
+        "shop_buy_fail_coins": "Pas assez de pièces !",
 
         # Défis et médailles
         "challenge_pacifista": "Terminez l'étage sans subir de dégâts",
