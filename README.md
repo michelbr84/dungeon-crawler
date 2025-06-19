@@ -147,7 +147,7 @@ Distribuído sob a [Licença MIT](LICENSE).
 
 ## Autores
 
-* [Seu Nome](https://github.com/michelbr84) — dev principal
+* [Michel Duek](https://github.com/michelbr84) — dev principal
 * Colabore você também! Envie sugestões, traduções ou código.
 
 ---
