@@ -48,7 +48,7 @@ Jogo **Roguelike Dungeon Crawler** em Pygame, com geração procedural de masmorra
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/michelbr/dungeon-roguelike.git
+   git clone https://github.com/michelbr84/dungeon-roguelike.git
    cd dungeon-roguelike
    ```
 
@@ -135,7 +135,7 @@ Contribuições são bem-vindas!
 4. Faça push para sua branch (`git push origin minha-feature`)
 5. Abra um Pull Request
 
-Confira as [issues](https://github.com/michelbr/dungeon-roguelike/issues) ou discuta melhorias conosco.
+Confira as [issues](https://github.com/michelbr84/dungeon-roguelike/issues) ou discuta melhorias conosco.
 
 ---
 
@@ -147,7 +147,7 @@ Distribuído sob a [Licença MIT](LICENSE).
 
 ## Autores
 
-* [Seu Nome](https://github.com/michelbr) — dev principal
+* [Seu Nome](https://github.com/michelbr84) — dev principal
 * Colabore você também! Envie sugestões, traduções ou código.
 
 ---
